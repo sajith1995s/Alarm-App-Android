@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alarm System</string>
+    <string name="tone_prompt">Select Tone</string>
+    <string name="action_favorite">favorite</string>
+    <string name="action_settings">settings</string>
+
+    <string-array name="tone_array">
+        <item>Tone-1</item>
+        <item>Tone-2</item>
+        <item>Tone-3</item>
+        <item>Tone-4</item>
+        <item>Tone-5</item>
+    </string-array>
+
+</resources>
